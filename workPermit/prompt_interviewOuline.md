@@ -1,143 +1,187 @@
-# Canadian Work Permit Application: Client Interview Template
+# Work Permit Application Interview Outline Template
 
-**Instructions:** This template is designed to guide the client interview process for a Canadian work permit application. Please fill in the placeholders with the appropriate information during the interview.
+## Purpose
+This template is designed to help immigration consultants conduct thorough interviews with clients seeking work permits in Canada. Following this structured approach ensures all necessary information is collected to assess eligibility, prepare appropriate documentation, and develop a tailored application strategy.
 
----
+## Interview Structure
 
-## 1. Introduction
-- **Purpose of Consultation**:  
-  [Insert the purpose of the consultation here.]
-- **Confidentiality**:  
-  [Insert a statement assuring confidentiality of the information provided.]
-- **Overview of the Process**:  
-  [Insert a brief overview of the work permit application process.]
+### 1. Introduction (5-10 minutes)
+- Welcome the client and explain the purpose of the interview
+- Outline the interview process and expected duration
+- Confirm client's preferred language and arrange interpreter if necessary
+- Explain confidentiality and how information will be used
+- Address any immediate questions or concerns
 
----
+### 2. Personal Background (15-20 minutes)
+- **Basic Information**
+  - Full legal name (verify spelling)
+  - Date of birth
+  - Current citizenship and residence status
+  - Contact information (phone, email, address)
+  - Education background (degrees, institutions, dates)
+  - Language proficiency (English/French certification if available)
 
-## 2. Client’s Background Information
-| Field              | Information                                      |
-|--------------------|--------------------------------------------------|
-| **Full Name**      | [Insert client's full name as per official documents] |
-| **Date of Birth**  | [Insert date of birth in DD/MM/YYYY format]      |
-| **Citizenship**    | [Insert country of citizenship]                  |
-| **Current Residency** | [Insert current country and city of residence] |
-| **Marital Status** | [Insert marital status, e.g., Single, Married, etc.] |
-| **Dependents**     | [Insert details of any dependents, including names, dates of birth, and relationships] |
+- **Immigration History**
+  - Previous visits to Canada
+  - Current immigration status in Canada (if applicable)
+  - Previous work/study permits or visa applications (any refusals)
+  - Travel history to other countries in the past 10 years
+  - Any immigration violations or deportations
 
----
+- **Family Information**
+  - Marital status
+  - Spouse/common-law partner details (if applicable)
+  - Dependent children details
+  - Family members in Canada
 
-## 3. Employment Details
-- **Job Offer**:  
-  - Do you have a valid job offer from a Canadian employer? **[Yes/No]**  
-  - If yes, can you provide a copy of the offer letter? **[Yes/No]**  
-  - **Position Title**: [Insert the job title]  
-  - **Job Duties**: [Briefly describe the job responsibilities]  
+### 3. Employment Details (20-25 minutes)
+- **Current Employment**
+  - Current employer and position
+  - Duration of employment
+  - Key responsibilities and skills
+  - Salary and benefits
 
-- **Employer Information**:  
-  - **Employer Name**: [Insert the name of the Canadian employer]  
-  - Is the employer a designated employer under the LMIA program? **[Yes/No]**  
-  - If not, has the employer applied for an LMIA? **[Yes/No]**  
+- **Proposed Canadian Employment**
+  - Prospective employer in Canada
+  - Job title and NOC code
+  - Job offer details (permanent/temporary, full-time/part-time)
+  - Salary and benefits
+  - Expected start date and duration
+  - How the job opportunity arose
+  - Contact details of employer/HR
 
-- **Work Duration**:  
-  - Is the job offer temporary or permanent? **[Temporary/Permanent]**  
-  - If temporary, how long will the job last? **[Insert duration in months/years]**  
+- **Employment History**
+  - Chronological work history (last 10 years)
+  - Positions held and key responsibilities
+  - Reason for leaving previous positions
+  - Gaps in employment (if any)
 
-- **Salary**:  
-  - **Salary Offered**: [Insert salary amount and currency]  
-  - Does this salary meet the minimum wage requirements for the province? **[Yes/No]**  
+### 4. Work Permit Specifics (20-25 minutes)
+- **Type of Work Permit Required**
+  - Employer-specific or open work permit
+  - LMIA-based or LMIA-exempt category
+  - International Mobility Program eligibility
+  - Intra-company transfer possibilities
+  - CUSMA/NAFTA professional category eligibility
+  - Post-graduation work permit eligibility (if applicable)
 
----
+- **LMIA Information (if applicable)**
+  - Status of LMIA application
+  - LMIA number if already obtained
+  - Details of recruitment efforts by employer
 
-## 4. Educational and Professional Qualifications
-- **Highest Level of Education**: [Insert highest degree or diploma, institution name, and year of completion]  
-- **Relevant Work Experience**: [Insert years of experience and job titles in the relevant field]  
-- **Professional Certifications or Licenses**: [List any certifications or licenses required for the position]  
+- **Work Permit Duration**
+  - Expected length of employment
+  - Long-term plans (permanent residency intentions)
 
----
+### 5. Supporting Documentation Assessment (15-20 minutes)
+- **Personal Documents**
+  - Passport validity
+  - Educational credentials
+  - Professional certifications and licenses
+  - Resume/CV status
+  - Reference letters from previous employers
 
-## 5. Eligibility for Work Permit
-- **Previous Work Permits**:  
-  - Have you applied for a work permit for Canada before? **[Yes/No]**  
-  - If yes, what was the outcome? **[Approved/Denied]** [Provide details if denied]  
+- **Job-Related Documents**
+  - Job offer letter
+  - Employment contract
+  - LMIA or LMIA exemption documentation
+  - Proof of qualifications for the position
 
-- **LMIA Requirement**:  
-  - Do you know if your employer needs to apply for a Labor Market Impact Assessment (LMIA)? **[Yes/No/Not Sure]**  
+- **Financial Documents**
+  - Proof of funds to establish in Canada
+  - Bank statements
+  - Income tax returns
 
-- **Type of Work Permit**:  
-  - Are you applying for an employer-specific work permit or an open work permit? **[Employer-specific/Open]**  
-  - If applying for an open work permit, what is the reason for the request? **[e.g., spouse, international graduate, etc.]**  
+- **Additional Documents**
+  - Medical exam results (if required)
+  - Police clearance certificates
+  - Biometrics status
 
-- **Current Status in Canada (if applicable)**:  
-  - Are you already in Canada on a visitor visa, study permit, or work permit? **[Yes/No]**  
-  - If yes, what type of permit are you currently holding? **[e.g., Visitor Visa, Study Permit]**  
+### 6. Risk Assessment (15-20 minutes)
+- **Potential Application Challenges**
+  - Previous immigration refusals
+  - Criminal history (if any)
+  - Medical inadmissibility concerns
+  - Gaps in documentation
+  - Employment qualification gaps
 
----
+- **Dual Intent Considerations**
+  - Long-term immigration plans
+  - Ties to home country
+  - Demonstrating temporary intent (if required)
 
-## 6. Family Details (If Applicable)
-- **Dependents**:  
-  - Do you have any dependents who will accompany you to Canada (e.g., spouse, children)? **[Yes/No]**  
-  - If yes, please provide details of each dependent (name, date of birth, relationship): **[List details]**  
+### 7. Strategic Planning (15-20 minutes)
+- **Application Submission Strategy**
+  - Online vs. paper application
+  - In-Canada vs. outside Canada application
+  - Port of entry application possibility
+  - Processing times and priority processing options
 
-- **Spouse’s Employment**:  
-  - Is your spouse seeking to work in Canada as well? **[Yes/No]**  
-  - If yes, will they need an open work permit? **[Yes/No]**  
+- **Timeline Development**
+  - Key dates and deadlines
+  - Document preparation schedule
+  - Biometrics appointment planning
+  - Medical examination timing
 
----
+### 8. Additional Considerations (10-15 minutes)
+- **Accompanying Family Members**
+  - Spouse/common-law partner work permit eligibility
+  - Children's study permit requirements
+  - Family member medical examinations
 
-## 7. Immigration History
-- **Previous Visits to Canada**:  
-  - Have you visited Canada before? **[Yes/No]**  
-  - If yes, when and for what purpose? **[Insert dates and purpose of visit]**  
+- **Settlement Planning**
+  - Accommodation arrangements
+  - Transportation needs
+  - Healthcare coverage
+  - Banking setup
 
-- **Immigration Applications**:  
-  - Have you previously applied for permanent residency, refugee status, or any other immigration program in Canada? **[Yes/No]**  
-  - If yes, please provide details and outcome of the application: **[Insert details and results]**  
+### 9. Summary and Next Steps (10-15 minutes)
+- Recap of key points discussed
+- Document checklist review and prioritization
+- Fee structure and payment options
+- Timeline for preparing application
+- Communication protocol moving forward
+- Assignment of action items (client and consultant)
 
----
+### 10. Final Questions (5-10 minutes)
+- Address any remaining questions or concerns
+- Confirm understanding of process and requirements
+- Schedule follow-up meeting if needed
 
-## 8. Biometrics and Medical Requirements
-- **Biometrics**:  
-  - Have you been asked to provide biometrics as part of your application process? **[Yes/No]**  
+## Post-Interview Actions
+- Document all information collected during the interview
+- Prepare detailed case notes
+- Develop customized document checklist
+- Begin drafting submission letter based on interview findings
+- Identify any areas requiring additional information or documentation
+- Create preliminary application strategy document
 
-- **Medical Exam**:  
-  - Will you need to undergo a medical examination based on your job or travel history? **[Yes/No/Not Sure]**  
+## Special Scenarios Questions
 
----
+### For Intra-Company Transfers
+- Current position and duration with the company
+- Canadian entity relationship to foreign entity
+- Position details in Canadian operation
+- Knowledge transfer requirements
 
-## 9. Other Considerations
-- **Visa Needs**:  
-  - Will you need a Temporary Resident Visa (TRV) in addition to the work permit to enter Canada? **[Yes/No]**  
+### For CUSMA/NAFTA Professionals
+- Specific profession under applicable appendix
+- Detailed qualifications matching treaty requirements
+- Evidence of pre-arranged employment
 
-- **Language Proficiency**:  
-  - Are you required to demonstrate language proficiency in English or French for the job or application? **[Yes/No]**  
-  - If yes, have you taken a language test (e.g., IELTS, CELPIP, TEF)? **[Yes/No]**  
+### For Post-Graduate Work Permit Applicants
+- Details of completed Canadian educational program
+- Graduation date and credential awarded
+- Study permit status and validity
 
----
+### For Open Work Permit Applicants
+- Specific open work permit category
+- Supporting relationship evidence (if spouse/partner based)
+- Vulnerable worker considerations
 
-## 10. Next Steps and Action Plan
-- **Document Checklist**:  
-  - [ ] Job offer letter  
-  - [ ] Passport copy  
-  - [ ] Educational certificates  
-  - [ ] Proof of work experience  
-  - [ ] LMIA (if applicable)  
-  - [ ] Biometrics appointment details (if applicable)  
-  - [ ] Medical exam results (if applicable)  
-
-- **Timeline**:  
-  [Discuss and insert the timeline for application preparation, submission, and expected processing time.]  
-
-- **Fees**:  
-  [Insert information about application fees, biometrics fees, etc.]  
-
-- **Follow-Up**:  
-  [Set and insert details for a follow-up appointment to review documents and begin the application process.]  
-
----
-
-## 11. Closing Remarks
-[Insert a closing statement, thanking the client and assuring guidance through the process.]
-
----
-
-**Note:** Please ensure all placeholders are filled with accurate information. If any section is not applicable, indicate "N/A" or provide an explanation as needed.
+## Follow-Up Interview Areas (if needed)
+- Document deficiencies identified in initial interview
+- Detailed preparation for potential interviews with immigration officers
+- Development of strategies for addressing identified risks
+- Further exploration of alternative pathways if primary option faces challenges
