@@ -16,7 +16,7 @@
   _(As it appears on official documents)_
 
 - **Date of Birth**:  
-  _(DD/MM/YYYY)_
+  _(YYYY-MM-DD)_
 
 - **Citizenship**:  
   _(Country of citizenship)_
@@ -163,28 +163,7 @@
 
 ---
 
-### 10. **Next Steps and Action Plan**
 
-- **Document Checklist**:  
-  Please gather the following documents:
-  - Job offer letter
-  - Passport copy
-  - Educational certificates
-  - Proof of work experience
-  - LMIA (if applicable)
-  - Biometrics appointment details (if applicable)
-  - Medical exam results (if applicable)
-
-- **Timeline**:  
-  We will discuss the timeline for preparing and submitting your application and the expected processing time.
-
-- **Fees**:  
-  Please be aware of the associated fees with the application (e.g., application fees, biometrics fees).
-
-- **Follow-Up**:  
-  We will set a follow-up appointment to review your documents and begin the application process.
-
----
 
 ### **Closing Remarks**
 

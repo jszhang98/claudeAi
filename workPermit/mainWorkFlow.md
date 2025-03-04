@@ -16,3 +16,37 @@
 - **Complete Forms**: Fill out the work permit application forms accurately.
 - **Ensure Accuracy**: Double-check all documents and forms for completeness and correctness.
 - **Submit Application**: Submit the application to IRCC, either online or by paper, based on the client’s case.
+
+# Main Steps interacting with AI
+- **Step 1:** Generate a simple questionnaire to locate the client's needs and confirm the work permit type. You can also use a standard work permit interview template in Word without generating. 
+  - Input: none
+  - Template: prompt_outlineInterview.md
+  - Output: A interview document for a new client to fill out.
+
+- **Step 2:** Generate an analysis report that need to be prepared. 
+  - Input: A interview document filled out by client.
+  - Template: prompt_analysisReport.md
+  - Output: analysis report.
+
+- **Step 3:** Generate a document list which need to be prepared by client.
+  - Input: A interview document filled out by client, Type of work permit
+  - Template: imm5548e, imm5556, prompt_documentList.md
+  - Output: A document List to client
+
+- **Step 3:** Input data in our system
+  - No interacting with Ai. Input the data in our system, which the data is collected from prepared client's documents. 
+
+- **Step 4:** Generate applicant's affidavit
+  - Input: Complete data, prepared document list
+  - Template: prompt_affidavitForPrincipal.md
+  - Output: applicant's affidavit
+
+- **Step 5:** Generate employer's affidavit
+  - Input: Complete employer's data, prepared employer's document list
+  - Template: prompt_affidavitForEmployer.md
+  - Output: Employer's Affidavit
+
+- **Step 6:** Generate submission letter
+  - Input: Complete principal data
+  - Template: prompt_submissionLetter.md
+  - Output: Submission Letter
